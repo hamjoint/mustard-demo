@@ -145,6 +145,10 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        /*
+         * Mustard Service Proider
+         */
+        Hamjoint\Mustard\Providers\MustardServiceProvider::class,
     ],
 
     /*
