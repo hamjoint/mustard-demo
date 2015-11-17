@@ -8,8 +8,12 @@
         "php": ">=5.5.9",
         "laravel/framework": "5.1.*",
         "hamjoint/mustard": "@dev",
+        "hamjoint/mustard-auctions": "@dev",
         "hamjoint/mustard-auth": "@dev",
-        "hamjoint/mustard-commerce": "@dev"
+        "hamjoint/mustard-commerce": "@dev",
+        "hamjoint/mustard-feedback": "@dev",
+        "hamjoint/mustard-media": "@dev",
+        "hamjoint/mustard-messaging": "@dev"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

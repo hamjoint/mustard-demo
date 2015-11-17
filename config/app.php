@@ -151,10 +151,10 @@ return [
         Hamjoint\Mustard\Providers\MustardServiceProvider::class,
         Hamjoint\Mustard\Auth\Providers\MustardAuthServiceProvider::class,
         Hamjoint\Mustard\Commerce\Providers\MustardCommerceServiceProvider::class,
-//         Hamjoint\Mustard\Auctions\Providers\MustardAuctionsServiceProvider::class,
-//         Hamjoint\Mustard\Feedback\Providers\MustardFeedbackServiceProvider::class,
-//         Hamjoint\Mustard\Media\Providers\MustardMediaServiceProvider::class,
-//         Hamjoint\Mustard\Messaging\Providers\MustardMessagingServiceProvider::class,
+        Hamjoint\Mustard\Auctions\Providers\MustardAuctionsServiceProvider::class,
+        Hamjoint\Mustard\Feedback\Providers\MustardFeedbackServiceProvider::class,
+        Hamjoint\Mustard\Media\Providers\MustardMediaServiceProvider::class,
+        Hamjoint\Mustard\Messaging\Providers\MustardMessagingServiceProvider::class,
     ],
 
     /*
