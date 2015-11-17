@@ -366,12 +366,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hamjoint/mustard.git",
-                "reference": "30db2d44ebcb0b7e1465cbbed711971f4483019d"
+                "reference": "e3db9fa6bfdbf76298ef29f83547c119740405d8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hamjoint/mustard/zipball/30db2d44ebcb0b7e1465cbbed711971f4483019d",
-                "reference": "30db2d44ebcb0b7e1465cbbed711971f4483019d",
+                "url": "https://api.github.com/repos/hamjoint/mustard/zipball/e3db9fa6bfdbf76298ef29f83547c119740405d8",
+                "reference": "e3db9fa6bfdbf76298ef29f83547c119740405d8",
                 "shasum": ""
             },
             "require": {
@@ -415,7 +415,7 @@
                 "marketplace",
                 "mustard"
             ],
-            "time": "2015-11-17 16:12:54"
+            "time": "2015-11-17 16:42:53"
         },
         {
             "name": "hamjoint/mustard-auctions",
@@ -466,12 +466,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hamjoint/mustard-auth.git",
-                "reference": "20033c95af2b28120f9264610104e9e9e4d9380c"
+                "reference": "5f7b9fb19134fa059ce6e615143cbdb37ad1e9b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hamjoint/mustard-auth/zipball/20033c95af2b28120f9264610104e9e9e4d9380c",
-                "reference": "20033c95af2b28120f9264610104e9e9e4d9380c",
+                "url": "https://api.github.com/repos/hamjoint/mustard-auth/zipball/5f7b9fb19134fa059ce6e615143cbdb37ad1e9b6",
+                "reference": "5f7b9fb19134fa059ce6e615143cbdb37ad1e9b6",
                 "shasum": ""
             },
             "require": {
@@ -501,7 +501,7 @@
                 "Authentication",
                 "mustard"
             ],
-            "time": "2015-11-07 01:32:02"
+            "time": "2015-11-17 16:43:38"
         },
         {
             "name": "hamjoint/mustard-commerce",
