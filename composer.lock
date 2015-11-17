@@ -466,12 +466,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hamjoint/mustard-auth.git",
-                "reference": "5f7b9fb19134fa059ce6e615143cbdb37ad1e9b6"
+                "reference": "52a18adf335c529f6a668de622cba2d75735ea55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hamjoint/mustard-auth/zipball/5f7b9fb19134fa059ce6e615143cbdb37ad1e9b6",
-                "reference": "5f7b9fb19134fa059ce6e615143cbdb37ad1e9b6",
+                "url": "https://api.github.com/repos/hamjoint/mustard-auth/zipball/52a18adf335c529f6a668de622cba2d75735ea55",
+                "reference": "52a18adf335c529f6a668de622cba2d75735ea55",
                 "shasum": ""
             },
             "require": {
@@ -501,7 +501,7 @@
                 "Authentication",
                 "mustard"
             ],
-            "time": "2015-11-17 16:43:38"
+            "time": "2015-11-17 16:48:23"
         },
         {
             "name": "hamjoint/mustard-commerce",
