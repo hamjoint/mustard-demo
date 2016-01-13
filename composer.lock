@@ -285,12 +285,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hamjoint/mustard.git",
-                "reference": "8641ff86fc4111083394c46fb261f45bb2c0b3bb"
+                "reference": "193e34769ad915f017203463263f9e0944ef7f2f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hamjoint/mustard/zipball/8641ff86fc4111083394c46fb261f45bb2c0b3bb",
-                "reference": "8641ff86fc4111083394c46fb261f45bb2c0b3bb",
+                "url": "https://api.github.com/repos/hamjoint/mustard/zipball/193e34769ad915f017203463263f9e0944ef7f2f",
+                "reference": "193e34769ad915f017203463263f9e0944ef7f2f",
                 "shasum": ""
             },
             "require": {
@@ -334,7 +334,7 @@
                 "marketplace",
                 "mustard"
             ],
-            "time": "2016-01-11 18:23:46"
+            "time": "2016-01-13 17:37:40"
         },
         {
             "name": "hamjoint/mustard-auctions",
@@ -385,12 +385,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hamjoint/mustard-auth.git",
-                "reference": "b6d48ec28f32f364e037ca440e3e1cd8710fd7ae"
+                "reference": "3cda4fbf8f1c33477f1367ea18cb35606f4dd854"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hamjoint/mustard-auth/zipball/b6d48ec28f32f364e037ca440e3e1cd8710fd7ae",
-                "reference": "b6d48ec28f32f364e037ca440e3e1cd8710fd7ae",
+                "url": "https://api.github.com/repos/hamjoint/mustard-auth/zipball/3cda4fbf8f1c33477f1367ea18cb35606f4dd854",
+                "reference": "3cda4fbf8f1c33477f1367ea18cb35606f4dd854",
                 "shasum": ""
             },
             "require": {
@@ -421,7 +421,7 @@
                 "Authentication",
                 "mustard"
             ],
-            "time": "2016-01-11 17:06:36"
+            "time": "2016-01-13 14:04:01"
         },
         {
             "name": "hamjoint/mustard-commerce",
@@ -473,12 +473,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hamjoint/mustard-feedback.git",
-                "reference": "934611f9f8375b60939add361d2199ff1f3e6af7"
+                "reference": "b6dfcfc065ab2642bc1e112d0f1a8a1b282ecf5d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hamjoint/mustard-feedback/zipball/934611f9f8375b60939add361d2199ff1f3e6af7",
-                "reference": "934611f9f8375b60939add361d2199ff1f3e6af7",
+                "url": "https://api.github.com/repos/hamjoint/mustard-feedback/zipball/b6dfcfc065ab2642bc1e112d0f1a8a1b282ecf5d",
+                "reference": "b6dfcfc065ab2642bc1e112d0f1a8a1b282ecf5d",
                 "shasum": ""
             },
             "require": {
@@ -509,7 +509,7 @@
                 "mustard",
                 "reviews"
             ],
-            "time": "2015-12-28 16:43:08"
+            "time": "2016-01-13 12:39:42"
         },
         {
             "name": "hamjoint/mustard-media",
@@ -517,12 +517,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hamjoint/mustard-media.git",
-                "reference": "693e9595176506a2769cfe844f1da4caaf8c049a"
+                "reference": "d3c799dbc3578e1e1022bb4eccae7a20e285ba06"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hamjoint/mustard-media/zipball/693e9595176506a2769cfe844f1da4caaf8c049a",
-                "reference": "693e9595176506a2769cfe844f1da4caaf8c049a",
+                "url": "https://api.github.com/repos/hamjoint/mustard-media/zipball/d3c799dbc3578e1e1022bb4eccae7a20e285ba06",
+                "reference": "d3c799dbc3578e1e1022bb4eccae7a20e285ba06",
                 "shasum": ""
             },
             "require": {
@@ -555,7 +555,7 @@
                 "photo",
                 "video"
             ],
-            "time": "2015-11-17 15:57:14"
+            "time": "2016-01-13 12:52:38"
         },
         {
             "name": "hamjoint/mustard-messaging",
@@ -563,12 +563,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hamjoint/mustard-messaging.git",
-                "reference": "cfece1ebd0d74f3f8ffb31a65ef3069cf521b00b"
+                "reference": "0693d438ac6e82168fedcdc18ed9ca5f8f7f7e60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hamjoint/mustard-messaging/zipball/cfece1ebd0d74f3f8ffb31a65ef3069cf521b00b",
-                "reference": "cfece1ebd0d74f3f8ffb31a65ef3069cf521b00b",
+                "url": "https://api.github.com/repos/hamjoint/mustard-messaging/zipball/0693d438ac6e82168fedcdc18ed9ca5f8f7f7e60",
+                "reference": "0693d438ac6e82168fedcdc18ed9ca5f8f7f7e60",
                 "shasum": ""
             },
             "require": {
@@ -599,7 +599,7 @@
                 "messaging",
                 "mustard"
             ],
-            "time": "2015-11-17 17:50:13"
+            "time": "2016-01-13 12:26:15"
         },
         {
             "name": "intervention/image",
@@ -810,16 +810,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v5.2.7",
+            "version": "v5.2.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "26cd65eaa4bcc0fb0be381cfb7cfdcda06a3c2b4"
+                "reference": "867914788c2ec942967c3608ed54626228a5f916"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/26cd65eaa4bcc0fb0be381cfb7cfdcda06a3c2b4",
-                "reference": "26cd65eaa4bcc0fb0be381cfb7cfdcda06a3c2b4",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/867914788c2ec942967c3608ed54626228a5f916",
+                "reference": "867914788c2ec942967c3608ed54626228a5f916",
                 "shasum": ""
             },
             "require": {
@@ -934,7 +934,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2016-01-07 13:54:34"
+            "time": "2016-01-12 22:45:00"
         },
         {
             "name": "league/flysystem",
@@ -2411,16 +2411,16 @@
         },
         {
             "name": "tjbp/laravel-verify-emails",
-            "version": "v1.0.1",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tjbp/laravel-verify-emails.git",
-                "reference": "beb48a963e9c2c22795dbe7219b97a14c72ec87b"
+                "reference": "1e2ac10a696c10f2fdf0d7de6c3388d549bc07c6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tjbp/laravel-verify-emails/zipball/beb48a963e9c2c22795dbe7219b97a14c72ec87b",
-                "reference": "beb48a963e9c2c22795dbe7219b97a14c72ec87b",
+                "url": "https://api.github.com/repos/tjbp/laravel-verify-emails/zipball/1e2ac10a696c10f2fdf0d7de6c3388d549bc07c6",
+                "reference": "1e2ac10a696c10f2fdf0d7de6c3388d549bc07c6",
                 "shasum": ""
             },
             "require": {
@@ -2457,7 +2457,7 @@
                 "verification",
                 "verify"
             ],
-            "time": "2016-01-11 18:12:23"
+            "time": "2016-01-13 10:12:09"
         },
         {
             "name": "tjbp/tablelegs",
