@@ -429,12 +429,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hamjoint/mustard-commerce.git",
-                "reference": "08545f73e14b7f7b62377f2d6d95af4544fc388c"
+                "reference": "886caeb5a88d827c8e9201e90020b64651dd87ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hamjoint/mustard-commerce/zipball/08545f73e14b7f7b62377f2d6d95af4544fc388c",
-                "reference": "08545f73e14b7f7b62377f2d6d95af4544fc388c",
+                "url": "https://api.github.com/repos/hamjoint/mustard-commerce/zipball/886caeb5a88d827c8e9201e90020b64651dd87ad",
+                "reference": "886caeb5a88d827c8e9201e90020b64651dd87ad",
                 "shasum": ""
             },
             "require": {
@@ -465,7 +465,7 @@
                 "mustard",
                 "payments"
             ],
-            "time": "2016-01-14 12:25:18"
+            "time": "2016-01-14 15:07:49"
         },
         {
             "name": "hamjoint/mustard-feedback",
